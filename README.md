@@ -41,3 +41,8 @@ The provided file [`BooksAPI.js`](src/BooksAPI.js) contains these methods:
 
 ## Important
 The backend API uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in [SEARCH_TERMS.md](SEARCH_TERMS.md). That list of terms are the _only_ terms that will work with the backend, so don't be surprised if your searches for Basket Weaving or Bubble Wrap don't come back with any results. 
+
+## Acknowledgements
+* [Resources, advice and help from fellow Udacity students and mentors](https://www.diigo.com/outliner/fkkvtl/Udacity-MyReads%3A-My-Reads%3A-Book-Tracking-App-Project-(project-%236)?key=4sfz2eik4g)
+* [Learn React - React Crash Course 2018 - React Tutorial with Examples by Mosh Hamedani](https://youtu.be/Ke90Tje7VS0)
+* [Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, by Kirupa Chinnathambi, Web Edition]
