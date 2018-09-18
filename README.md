@@ -45,4 +45,4 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 ## Acknowledgements
 * [Resources, advice and help from fellow Udacity students and mentors](https://www.diigo.com/outliner/fkkvtl/Udacity-MyReads%3A-My-Reads%3A-Book-Tracking-App-Project-(project-%236)?key=4sfz2eik4g)
 * [Learn React - React Crash Course 2018 - React Tutorial with Examples by Mosh Hamedani](https://youtu.be/Ke90Tje7VS0)
-* [Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, by Kirupa Chinnathambi, Web Edition]
+* [Learning React: A Hands-On Guide to Building Web Applications Using React and Redux, by Kirupa Chinnathambi, 2nd Edition](https://www.amazon.com/Learning-React-Hands-Building-Applications/dp/013484355X/ref=sr_1_4?ie=UTF8&qid=1537308172&sr=8-4&keywords=learning+react)
